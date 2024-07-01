@@ -29,8 +29,3 @@ npm install && npm run dev
 ## Credits/Shout out
 All thanks to Olga Skuja from the figma community
 https://www.olgaskuja.design/?utm_source=positivus&utm_medium=fig&utm_campaign=prom
-
-## Author
-Built with love ❤️ by Pius Lucky https://luckypius.netlify.app/
-
-# positivus
