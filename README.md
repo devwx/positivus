@@ -1,9 +1,6 @@
 # Positivus
 Positivus website built with Next14, Shadcn, and Tailwind.
 
-# Youtube
-https://youtu.be/xuX2MTghC4U
-
 # ☁️ Deployed link
 https://positivus-orpin.vercel.app/
 
